@@ -9,7 +9,6 @@
 
 - ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-
 ## Getting Started
 
 ### Prerequisites
@@ -63,4 +62,3 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
-
